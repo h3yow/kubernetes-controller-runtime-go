@@ -1,0 +1,3 @@
+# local runtime/demo state
+.demo-state/
+.bin/
